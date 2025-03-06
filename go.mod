@@ -1,4 +1,4 @@
-module github.com/xxjwxc/public
+module github.com/xiafei114/public
 
 go 1.23.4
 
@@ -31,6 +31,7 @@ require (
 	github.com/wenzhenxi/gorsa v0.0.0-20210524035706-528c7050d703
 	github.com/xxjwxc/clickhouse v0.0.0-20240202084719-aad15ea5f045
 	github.com/xxjwxc/gowp v0.0.0-20200603130651-4d7368b0e285
+	github.com/xxjwxc/public v0.0.0-20250124084855-a0e71c7e0764
 	gitlab.com/gitlab-org/api/client-go v0.117.0
 	go.uber.org/zap v1.25.0
 	golang.org/x/crypto v0.19.0

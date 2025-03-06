@@ -400,6 +400,8 @@ github.com/xxjwxc/clickhouse v0.0.0-20240202084719-aad15ea5f045/go.mod h1:D1wSBD
 github.com/xxjwxc/gowp v0.0.0-20200603130651-4d7368b0e285 h1:gbdax2ZvHZwe8zxu7by/HMuDUS47iHR2zmEzlgAHBMw=
 github.com/xxjwxc/gowp v0.0.0-20200603130651-4d7368b0e285/go.mod h1:yJ/fY5BorWARfDDsxBU/MyQTHc5MVyNcqBQQYD6MN0k=
 github.com/xxjwxc/public v0.0.0-20200603115833-341beff27850/go.mod h1:fp3M+FEQrCgWD1fZ/PLwZkCTglf086OEhC9LcydAUnc=
+github.com/xxjwxc/public v0.0.0-20250124084855-a0e71c7e0764 h1:k/o2GSHR9L3jwop7I7tLvN7APFVDv0/Rr3WW7O4BjxA=
+github.com/xxjwxc/public v0.0.0-20250124084855-a0e71c7e0764/go.mod h1:m6b3UJGOv1otayilUtptwIWeUCYKOzw5OaX/f7XNDpU=
 github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d/go.mod h1:rHwXgn7JulP+udvsHwJoVG1YGAP6VLg4y9I5dyZdqmA=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
